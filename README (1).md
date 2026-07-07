@@ -61,6 +61,4 @@ Total Spending: $4.50
 - [ ] Filter expenses by date or category
 - [ ] Build a GUI or web version
 
-## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
